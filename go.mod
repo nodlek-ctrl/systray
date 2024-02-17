@@ -1,4 +1,4 @@
-module github.com/getlantern/systray
+module github.com/nodlek-ctrl/systray
 
 go 1.14
 
