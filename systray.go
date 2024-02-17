@@ -9,7 +9,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/getlantern/golog"
+	"github.com/nodlek-ctrl/golog"
 )
 
 var (
